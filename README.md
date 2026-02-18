@@ -1,7 +1,21 @@
+# Hello World👋! It's Farzaneh.
+<p align="left">
+I'm a software engineer.I'm motivated by bringing technical ideas to life.
+  
+  Take a look at [my website](farazanehRabbani.netlify.app) for more information.<br>
+  
+  <br>
+   <a href="farabbani1726@gmail.com">
+    <img alt="farzaneh rabbani's gmail" title="email me" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/></a>  
+   <a href="farzanehRabbani.netlify.app">
+    <img alt="farzaneh rabbani's portfolio" title="take a look at my portfolio" src="https://custom-icon-badges.demolab.com/badge/Website-D15E9B.svg?logo=heart"/></a> 
+   <a href="">
+    <img alt="twitter account" title="follow me in x" src="https://custom-icon-badges.demolab.com/badge/Twitter-black.svg?logo=x"/></a>
+  <a href="">
+    <img alt="linkedIn account" title="connect me in linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue"/></a> 
+</p>
 
-
-
-
+---
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
   <table>
@@ -38,27 +52,13 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
   </p>
 </details>
 
-<details open>
-<summary><h2>💌Connet me</h2></h2></summary>
-# Connet me 
-<img alt="Static Badge" src="https://img.shields.io/badge/badgeContent">
-
-<img alt="Static Badge" src=" https://img.shields.io/badge/any_text-you_like-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinedIn">
-<img alt="Static Badge" src="https://img.shields.io/badge/X">
-<img alt="Static Badge" src="https://img.shields.io/badge/Resume">
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style-for-the-badge&logo=git&logoColor=white" height="60">
-<img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
-</details>
 
 
 
 
 
-connect//
+
