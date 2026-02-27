@@ -26,7 +26,9 @@ I'm a software engineer.I'm motivated by bringing technical ideas to life.
             </a>
         </td>
         <td width="50%" valign="top" style="border: 1px solid white;">
-          <img alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
+            <a target="_blank" href="https://afghan-darbar-restaurant.netlify.app/">
+                  <img src="">
+            </a>
         </td>
     </tr>
     <tr>
