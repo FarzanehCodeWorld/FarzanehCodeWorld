@@ -21,7 +21,7 @@ I'm a software engineer.I'm motivated by bringing technical ideas to life.
   <table>
     <tr>
         <td style="border:1px solid white;padding:10px">
-          <img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
+          <video src='C:\Users\Technokade\Desktop' width=180/>
         </td>
         <td style="border: 1px solid white;">
           <img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
