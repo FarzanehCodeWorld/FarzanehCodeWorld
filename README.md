@@ -20,21 +20,21 @@ I'm a software engineer.I'm motivated by bringing technical ideas to life.
   <summary><h2>📘 My Top Projects</h2></summary>
   <table>
     <tr>
-        <td style="border:1px solid white;padding:10px">
+        <td  width="50%" valign="top"style="border:1px solid white;padding:10px">
           <a target="_blank" href="https://afghan-darbar-restaurant.netlify.app/">
-                  <img width="300" src="assets/preview-afghan-darbar.gif">
+                  <img src="assets/preview-afghan-darbar.gif">
             </a>
         </td>
-        <td style="border: 1px solid white;">
-          <img width="300" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
+        <td width="50%" valign="top" style="border: 1px solid white;">
+          <img alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
         </td>
     </tr>
     <tr>
-        <td style="border:1px solid white;">
-            <img width="300" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
+        <td width="50%" valign="top" style="border:1px solid white;">
+            <img alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
       </td>
-        <td style="border:1px solid white;">
-             <img width="300" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
+        <td width="50%" valign="top" style="border:1px solid white;">
+             <img alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
         </td>
     </tr>
 </table>  
