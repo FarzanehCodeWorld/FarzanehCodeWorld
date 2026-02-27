@@ -26,8 +26,8 @@ I'm a software engineer.I'm motivated by bringing technical ideas to life.
             </a>
         </td>
         <td width="50%" valign="top" style="border: 1px solid white;">
-            <a target="_blank" href="https://afghan-darbar-restaurant.netlify.app/">
-                  <img src="">
+            <a target="_blank" href="https://squarre.netlify.app/">
+                  <img src="assets/square.gif">
             </a>
         </td>
     </tr>
