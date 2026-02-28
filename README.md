@@ -31,14 +31,14 @@ I'm a software engineer.I'm motivated by bringing technical ideas to life.
             </a>
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td width="50%" valign="top" style="border:1px solid white;">
             <img alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
       </td>
         <td width="50%" valign="top" style="border:1px solid white;">
              <img alt="Screenshot (269)" src="https://github.com/user-attachments/assets/8c3fb985-7dd3-4a39-adc4-06017702300d" />
         </td>
-    </tr>
+    </tr> -->
 </table>  
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
